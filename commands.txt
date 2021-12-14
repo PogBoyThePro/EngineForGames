@@ -1,0 +1,13 @@
+Commands - 
+first 
+from packs import engine
+engine.start()
+engine.stop()
+engine.help_weapons()
+engine.knivesng()
+engine.help_tactical_knife()
+engine.help_utility_knife()
+engine.gun_working()
+engine.check_boss_hp()
+engine.Check_hp()
+#Warning commands might not be hundred percent accurate!
